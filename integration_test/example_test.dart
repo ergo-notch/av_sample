@@ -1,6 +1,5 @@
 import 'package:av_sample/core/di/injection_modules.dart';
 import 'package:av_sample/main.dart';
-import 'package:flutter/material.dart';
 import 'package:patrol/patrol.dart';
 
 void main() async {
