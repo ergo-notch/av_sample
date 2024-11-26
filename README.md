@@ -5,6 +5,9 @@
 A **Flutter application** built with **Clean Architecture** principles and **BLoC** state management. The project is designed to be scalable, testable, and maintainable.
 
 ---
+![Screenshot_1732648493](https://github.com/user-attachments/assets/0f1020de-da82-4289-b08b-851a437b5da7)
+
+
 
 ## Table of Contents
 
