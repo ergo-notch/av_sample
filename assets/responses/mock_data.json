@@ -1,0 +1,50 @@
+[        
+    {       
+            "id":"1",
+            "loanType": 0,
+            "loanAmount": 5000,
+            "weeklyAmount": 100,
+            "paymentDay": "2024-11-25T00:00:00Z",
+            "paid": true
+        },
+        {
+            "id": "2",
+            "loanType": 1,
+            "loanAmount": 15000,
+            "weeklyAmount": 300,
+            "paymentDay": "2024-11-26T00:00:00Z",
+            "paid": false
+        },
+        {
+            "id": "3",
+            "loanType": 2,
+            "loanAmount": 250000,
+            "weeklyAmount": 5000,
+            "paymentDay": "2024-11-27T00:00:00Z",
+            "paid": true
+        },
+        {
+            "id": "4",
+            "loanType": 0,
+            "loanAmount": 10000,
+            "weeklyAmount": 200,
+            "paymentDay": "2024-12-02T00:00:00Z",
+            "paid": false
+        },
+        {
+            "id": "5",
+            "loanType": 1,
+            "loanAmount": 20000,
+            "weeklyAmount": 400,
+            "paymentDay": "2024-12-02T00:00:00Z",
+            "paid": false
+        },
+        {
+            "id": "6",
+            "loanType": 2,
+            "loanAmount": 300000,
+            "weeklyAmount": 6000,
+            "paymentDay": "2024-12-02T00:00:00Z",
+            "paid": false
+        }
+    ]
